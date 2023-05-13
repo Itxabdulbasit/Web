@@ -113,6 +113,6 @@
 // }
     export default function Home() {
             return ( 
-                    <div>Abdul Baseer Khan Gulab</div>
+                    <h1>Abdul Baseer Khan </h1>
             )
     }

@@ -113,7 +113,6 @@
 // }
     export default function Home() {
             return (
-                    // <div>Hello World</div>
-                    <img src="WIN_20230216_16_56_25_Pro.jpj" alt="" />
+                    <div>Hello World</div>
             )
     }
